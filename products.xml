@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<products>
+    <!-- Product #1 -->
+    <product>
+        <name>Vintage T-shirt</name>
+        <price>25</price>
+        <description>Tie-die half-sleeve T-shirt</description>
+        <categories>
+            <category>clothing</category>
+            <category>vintage</category>
+        </categories>
+    </product>
+
+    <!-- Product #2 -->
+    <product>
+        <name>Dior Sunglass</name>
+        <price>490</price>
+        <description>DiorBlackSuit N2I</description>
+        <categories>
+            <category>Eyewear</category>
+            <category>Designer</category>
+        </categories>
+    </product>
+
+    <!-- Product #3 -->
+    <product>
+        <name>Leather Jacket</name>
+        <price>400</price>
+        <description>Black Leather Jacket</description>
+        <categories>
+            <category>clothing</category>
+            <category>vintage</category>
+            <category>Jacket</category>
+        </categories>
+    </product>
+
+    <!-- Product #4 -->
+    <product>
+        <name>Bomber Jacket</name>
+        <price>250</price>
+        <description>Red Varsity Bomber Jacket</description>
+        <categories>
+            <category>clothing</category>
+            <category>Jacket</category>
+        </categories>
+    </product>
+
+    <!-- Product #5 -->
+    <product>
+        <name>Air Jordan 1 Retro</name>
+        <price>120</price>
+        <description>Retro High 'SATIN BRED' 2023</description>
+        <categories>
+            <category>footwear</category>
+            <category>shoes</category>
+            <category>sneakers</category>
+        </categories>
+    </product>
+
+    <!-- Product #6 -->
+    <product>
+        <name>Vans Old Skool</name>
+        <price>80</price>
+        <description>Old Skool Black White</description>
+        <categories>
+            <category>footwear</category>
+            <category>shoes</category>
+            <category>sneakers</category>
+        </categories>
+    </product>
+
+    <!-- Product #7 -->
+    <product>
+        <name>Pirelli Cap</name>
+        <price>70</price>
+        <description>Black Pirelli Cap</description>
+        <categories>
+            <category>headwear</category>
+            <category>cap</category>
+            <category>footwear</category>
+            <category>accessories</category>
+        </categories>
+    </product>
+
+    <!-- Product #8 -->
+    <product>
+        <name>Futura Skateboard</name>
+        <price>65</price>
+        <description>Supreme: White Text on Purple</description>
+        <categories>
+            <category>skateboard</category>
+            <category>misc</category>
+            <category>skate</category>
+        </categories>
+    </product>
+
+    <!-- Product #9 -->
+    <product>
+        <name>Skateboard Wheels</name>
+        <price>40</price>
+        <description>Red (set of 4)</description>
+        <categories>
+            <category>skate</category>
+            <category>misc</category>
+            <category>skateboard</category>
+        </categories>
+    </product>
+
+    <!-- Product #10 -->
+    <product>
+        <name>Backpack</name>
+        <price>160</price>
+        <description>Red Vintage</description>
+        <categories>
+            <category>Bag</category>
+            <category>vintage</category>
+             <category>accessories</category>
+        </categories>
+    </product>
+
+    <!-- Product #11 -->
+    <product>
+        <name>Waist Bag</name>
+        <price>80</price>
+        <description>Black Designer</description>
+        <categories>
+            <category>accessories</category>
+            <category>bag</category>
+            <category>Designer</category>
+        </categories>
+    </product>
+</products>

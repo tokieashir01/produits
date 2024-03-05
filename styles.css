@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+products {width: 50%; margin: 80px auto 0 auto; border:.5px solid #4E4FD0; min-
+height: 300px; padding: 20px}
+product {display:block; margin-bottom: 30px; width: 200px;}
+product name {display:inline-block; font-size: 26px; text-transform: capitalize;
+color: #bb3737; width: 160px;}
+product price{font-size:28px; display:inline-block;}
+product price:before {content:"$"; }
+product description:before {content: "Description:"; display:block; padding-top: 5px;}
+product categories category {list-style-type:disc; list-style-position: inside;
+display:list-item;}
